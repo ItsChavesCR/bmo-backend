@@ -1,0 +1,402 @@
+[
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  },
+  {
+    "question": "¿Cómo saber si mi computadora tiene virus?",
+    "answer": "Si tu equipo está lento, muestra ventanas emergentes o se comporta de forma extraña, realiza un análisis con un antivirus actualizado."
+  },
+  {
+    "question": "¿Qué hacer si olvidé la contraseña de mi computadora?",
+    "answer": "En Windows puedes restablecerla desde una cuenta de administrador o usando una unidad de recuperación."
+  },
+  {
+    "question": "¿Cómo acelerar el arranque de mi PC?",
+    "answer": "Desactiva programas innecesarios desde el Administrador de tareas > pestaña 'Inicio'."
+  },
+  {
+    "question": "¿Qué hago si no escucho sonido en mi laptop?",
+    "answer": "Verifica que el volumen esté activo, que no haya auriculares conectados y revisa los drivers de audio."
+  },
+  {
+    "question": "¿Cómo conecto dos monitores a mi computadora?",
+    "answer": "Conecta ambos monitores a los puertos disponibles y configura su disposición en Configuración > Pantalla."
+  },
+  {
+    "question": "¿Qué hacer si mi teclado escribe caracteres incorrectos?",
+    "answer": "Revisa la configuración de idioma del teclado y asegúrate de que esté configurado correctamente (por ejemplo, español latinoamericano)."
+  },
+  {
+    "question": "¿Cómo sé cuánta RAM tiene mi PC?",
+    "answer": "Haz clic derecho en 'Este equipo' > Propiedades, o abre el Administrador de tareas en la pestaña 'Rendimiento'."
+  },
+  {
+    "question": "¿Por qué mi laptop no carga aunque esté conectada?",
+    "answer": "Podría deberse a un cargador dañado, batería defectuosa o problemas en el puerto de carga."
+  },
+  {
+    "question": "¿Cómo instalar un programa desde internet de forma segura?",
+    "answer": "Descarga siempre desde sitios oficiales y revisa que el archivo no contenga malware con un antivirus."
+  },
+  {
+    "question": "¿Qué hacer si mi pantalla se congela?",
+    "answer": "Presiona Ctrl + Alt + Supr, intenta cerrar el programa que no responde o reinicia el equipo si es necesario."
+  }
+]
